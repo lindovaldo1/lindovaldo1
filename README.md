@@ -5,5 +5,5 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="pic-gif" height="" width="" src="https://pin.it/73Y6XCc">
+  <img align="right" alt="pic-gif" height="" width="" src="https://github.com/lindovaldo1/lindovaldo1/blob/main/Dream%20Kirokaze%20on%20Patreon.gif?raw=true">
 </div>
